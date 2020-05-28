@@ -3,8 +3,6 @@
 Drag and Drop API(arrastar e soltar) habilitam aplicações a usar funcionalidades de arrastar e soltar através do navegador. 
 
 
-![gif-kanban](https://user-images.githubusercontent.com/60434681/83178293-ba868b00-a0f6-11ea-9634-d49fd80b9489.gif)
-
 
 ## Events
 
